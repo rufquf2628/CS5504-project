@@ -2,6 +2,9 @@
 
 This project is the final project for CS5504 in Spring 2024 semester. It is the project to observe different combinations of hardware architecture with gem5 simulator.
 
+Here is the git repository link for the project.
+https://github.com/rufquf2628/CS5504-project
+
 ## Usage
 
 To use the project, the gem5.opt of X86 architecture is needed in linux server. 
